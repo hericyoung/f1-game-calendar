@@ -36,7 +36,7 @@
 
 # URL
 
-为了满足不同人群需要，我干脆按照 **练习赛，排位赛和正赛** 拆解了三个日历，可以按需订阅，下面是各个日历的订阅 URL（冲刺赛在排位赛日历内）
+为了满足不同人群需要，我干脆按照 **练习赛，排位赛和正赛** 拆解了三个日历，可以按需订阅，下面是各个日历的订阅 URL
 
 # 2023赛季
 
@@ -46,7 +46,7 @@
 webcal://p212-caldav.icloud.com.cn/published/2/ODA2NjQ0MjQ1NjgwNjY0NL9g_CCGch419HGfmNCDauG7OgTSjz0Tl3ROUW41lN2bdrgHAIs9EZo3FSlSgBb5P1rpnNCj3JqWxxp4eH_E4bU
 ```
 
-排位赛：
+排位赛（含冲刺赛）：
 
 ```bash
 webcal://p212-caldav.icloud.com.cn/published/2/ODA2NjQ0MjQ1NjgwNjY0NL9g_CCGch419HGfmNCDauHhLPkf1iP2nY_ZLQEo8ZBFUn1KsnTBhMPKLi6TCGALBJFRFWr9nzrvz_0b-xyGoaY
